@@ -3001,6 +3001,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerSpeed: 1
   wall: {fileID: 466359438}
+  playerAnimation: {fileID: 554266329}
 --- !u!50 &1364579600
 Rigidbody2D:
   serializedVersion: 4
